@@ -19,7 +19,9 @@ types/<النوع>.png
 ### types/
 صورة احتياطية حسب نوع الجهاز، تُستعمل عند عدم وجود صورة للموديل:
 
-`mikrotik, airmax, ac, mtlink, lhg60, afx, af60, aclink, amlink, c5c, c5x, b11, b24, b5x, b5c, b5, switch`
+`mikrotik, ubnt, mtlink, lhg60, afx, af60, aclink, amlink, c5c, c5x, b11, b24, b5x, b5c, b5, switch`
+
+(`airmax` و `ac` للنسخ القديمة قبل دمجهما في `ubnt`.)
 
 ## ملاحظات
 - يصغّر التطبيق الصورة لعرض 320 بكسل، فلا داعي لصور أكبر من ~640 بكسل.
